@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 
-Testing out github.
+Testing out github. Hello world
